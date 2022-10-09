@@ -1,2 +1,2 @@
 001 AffinityDev Owner affinity-a3f637dadc2f62eddf9b0edb78e410741782edb8
-002 migos_ Friend
+002 migos_ Friend 0
